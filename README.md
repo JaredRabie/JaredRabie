@@ -1,9 +1,12 @@
-- Hi, I’m @JaredRabie.
-- I’m interested in software development and learning new methodologies.
-- I’m currently relearning version control with Git and GitHub.
-- I'm also developing new and varied projects to advance my problem solving skills. 
+# Hi there, I'm @JaredRabie
+### About Me
+I am a graduate from the University of Auckland, with a Bachelor of Science in Physics and Mathematics. The bulk of my work experience is in education, training, and customer service; although I am currently transitioning into a career in software development. I am a driven, diligent employee always looking to branch out to develop new skills and excel in different areas.
+### My Experience
+Although I am a mostly self-taught developer, I also draw on my experience from University to improve my coding abilities. The majority of all physics papers I took in University had a programming element, mostly delivered through lab assignments, where Python was used to process and analyse data to prove or disprove a given hypothesis. I also took two introductory programming courses; one which covered the basics of Python, and another on core software development comcepts, such as working with recursion and analysing time and space complexity of algorithms. The other main benefit of my degree was the analytical skills I developed in my degree; critical thinking and developing fully justified conclusions from data was a core focus of my degree, and a mindset that I have carried through many areas of my employment and daily life.
+### Simple Tetris
+This is my most recent project which aims to develop a relatively basic copy of the popular game Tetris. My main goals in this project are to become more comfortable working within an unfamiliar Python library, in this case PyGame, as well as an opportunity to practice creating well-structured, readable, and maintainable code. This project is currently in development.
+### Simple Solitaire
+This project was a final assignment to CompSci 130: Introduction to Software Fundamentals in which I create a simple text-based Solitaire game as outlined in the assignment, then create a customised addition to the game with no prompt other than it "must be very cool". I was given a 95.8% on this assignment (5.75/6) based on meaningful variable names, readability, adherence to pythonic code conventions, as well as an extensive list of tests. The base version of the game is a simple solitaire game with three piles, one suit, and with all cards starting on pile 1. For my extension, I allowed the user to create custom suits using symbols (eg $, #, @) as well as choose the range of cards (eg 1-5 or 1-13), as well as choose from a set of predetermined difficulties. 
+### Directory Map
+This was a simple project that I created in an hour or two which takes a directory and an optional file name then returns a tiered list of all sub-folders and files within the directory, and (optionallly) saves the directory map to a .txt file. 
 
-<!---
-JaredRabie/JaredRabie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
